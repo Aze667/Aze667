@@ -1,8 +1,8 @@
 # Salut, moi c'est Gabriel 👋
 
-Étudiant en **Master Data à Enigma Lille**, en alternance data chez **Hoist Finance**.
+Étudiant en **Master Data à Enigma Lille**.
 
-📍 Lille · 🎓 Enigma Lille · 💼 Hoist Finance
+📍 Lille · 🎓 Enigma Lille · 💼 En recherche
 
 ---
 
